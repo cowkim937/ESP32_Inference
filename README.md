@@ -9,4 +9,4 @@ Referenced by: https://github.com/ARM-software/ML-KWS-for-MCU
 Referenced by: https://github.com/espressif/esp-who.git
 
 ### Description
-기존에 사용하던 코드가 아닌 DSCNN inference 코드만 업로드하여 정상적 사용 
+기존에 사용하던 코드가 아닌 DSCNN inference 코드만 업로드하여 정상적 사용 불가
