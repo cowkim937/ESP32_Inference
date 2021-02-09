@@ -62,7 +62,7 @@ driver_behaivor deep_driver;
  *           - longitudinal rate
  *           - lateral rate
  * 
- * @param nor_data_inputs input data for inference
+ * @param nor_data_inputs normalization and quantization input data for inference
  * @param driver_data setting DL model data
 */
 int dangerous_DLmodel8(int16_t *nor_data_inputs, driver_behaivor driver_data);
